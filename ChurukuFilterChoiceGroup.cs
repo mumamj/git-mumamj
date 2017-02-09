@@ -9,6 +9,9 @@ using BestHTTP.Extensions;
 using System.Threading;
 using CHANGETYPE = DBObject.CHANGETYPE;
 
+斯科拉好过节后
+1234567
+
 public class ChurukuFilterChoiceGroup : MonoBehaviour
 {
     #region Public Fields
